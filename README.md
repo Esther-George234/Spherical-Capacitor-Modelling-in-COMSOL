@@ -102,13 +102,6 @@ $$\varepsilon_{abs} = \left| C_{numerical} - C_{analytical} \right|$$
 - The electric field magnitude is largest at the inner electrode surface and decays as 1/r², consistent with the analytical solution. The potential decreases monotonically from 1 V at the inner sphere to 0 V at the outer sphere.
 - In the dielectric region the displacement field is continuous across the radial direction, while the E-field is reduced by the factor 1/ε_r relative to air at the same radius.
 
-### 5.3 Field and potential plots
-
-Insert figures here (e.g. `figures/potential.png`, `figures/E_field.png`):
-
-- Electric potential slice / isosurfaces
-- Electric field norm `es.normE` slice
-- Radial profiles of V(r) and E(r) compared with analytical curves
 
 ## 6. Repository Contents
 
