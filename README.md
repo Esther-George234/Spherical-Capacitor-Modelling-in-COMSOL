@@ -46,8 +46,6 @@ $$C_{total} = \tfrac{3}{4} C_{diel} + \tfrac{1}{4} C_{air}$$
 
 where C_diel and C_air are the capacitances of the fully filled configurations with ε_r = 8 and ε_r = 1 respectively.
 
-> **Note:** Verify this combination rule against the reference textbook solution and the figure of the original problem statement, and edit this section if the intended configuration differs (e.g. layered/radial division, which would yield a series combination).
-
 ### 3.4 Numerical capacitance methods
 
 **Method 1: Charge from `es.Dn`.** The enclosed charge is obtained by integrating the normal displacement over the inner electrode surface:
